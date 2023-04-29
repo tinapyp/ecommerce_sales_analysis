@@ -7,3 +7,6 @@ E-commerce is a vast and ever-changing field, and analyzing big data can help bu
 In this project, I have used SQL to retrieve specific data from the dataset, such as category, name, department, product_id, order_id, and created_at. I have joined the bigquery-public-data.thelook_ecommerce.products and bigquery-public-data.thelook_ecommerce.order_items tables to get a better understanding of the sales patterns.
 
 By sharing this project, I hope to provide insights into the e-commerce industry and inspire others to leverage their technical skills to analyze big data. Feel free to explore the code and data visualization on Tableau.
+
+## Report
+<kbd><img src="https://github.com/fathinafif/ecommerce_sales_analysis/blob/main/Report.png" alt="Image"></kbd>
